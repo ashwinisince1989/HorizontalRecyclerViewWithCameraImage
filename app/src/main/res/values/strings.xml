@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImageCaptureAndStoreRecyclerView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="imageFor">
+        <item>Meter</item>
+        <item>Feeder</item>
+        <item>DT</item>
+        <item>POLE</item>
+    </string-array>
+</resources>
